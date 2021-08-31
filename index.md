@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/leesharma/physics-ml-reading-group/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a reading group focusing on the intersection of machine learning and computational science and engineering. Topics include, but are not limited to, machine learning methods that embed physical priors, applications of machine learning algorithms to computational science and engineering, uncertainty quantification and trust, integration of numerical and data-driven techniques, and high-performance scientific computing with machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This group is oriented towards researchers in scientific machine learning and adjacent disciplines as well as anyone else with an academic interest in the area. We'd love to meet you!
 
-### Markdown
+To ensure high-quality discussion, please try to read the paper before attending the meeting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Meeting Details
 
-```markdown
-Syntax highlighted code block
+Our inaugural meeting will be **Thursday, September 2, 2021** in **IRB 4143**. ([calendar link](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NXVsNzg3NG5vb2tqNDhhZnJtNG03Z2UzZHAgY19zazJnaDc2azFicm40cDY3aThxcG5mc28yb0Bn/YWpzaGFybWFAdW1kLmVkdQ?sf=true))
 
-# Header 1
-## Header 2
-### Header 3
+Future meeting schedule TBD
 
-- Bulleted
-- List
+## Reading Schedule
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leesharma/physics-ml-reading-group/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
+|------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 9/2  | Physics-informed machine learning by Karniadakis et al. (2021) | Matt Ziemann | [paper](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf) |
+| ?    | ?                                                              | ?               |                                                                                                                                      |
