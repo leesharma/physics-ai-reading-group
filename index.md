@@ -12,7 +12,7 @@ Our inaugural meeting will be **Thursday, September 2, 2021** in **IRB 4143**. (
 
 Future meeting schedule TBD
 
-## Reading Schedule
+## Fall 2021 Schedule
 
 | Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
 |------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
