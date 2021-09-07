@@ -8,13 +8,14 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-Our inaugural meeting will be **Thursday, September 2, 2021** in **IRB 4143**. ([calendar link](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NXVsNzg3NG5vb2tqNDhhZnJtNG03Z2UzZHAgY19zazJnaDc2azFicm40cDY3aThxcG5mc28yb0Bn/YWpzaGFybWFAdW1kLmVkdQ?sf=true))
+Our next meeting will be **5-6pm** on **Thursday, September 16, 2021** in **IRB 4145**. ([calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHZycGE4ZDJoNWxhNDZkZGJha3IwZWFzc3YgYWpzaGFybWFAdW1kLmVkdQ&tmsrc=ajsharma%40umd.edu))
 
-Future meeting schedule TBD
+Our tentative fall meeting schedule is alternating Thursdays, 5-6pm.
 
 ## Fall 2021 Schedule
 
 | Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
 |------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 9/2  | Physics-informed machine learning by Karniadakis et al. (2021) | Matt Ziemann | [paper](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf) |
-| TBD  | Discovering governing equations from data by sparse identification of nonlinear dynamical systems by Brunton et al. (2016) | Lee Sharma | [paper](https://www.pnas.org/content/pnas/113/15/3932.full.pdf) <br> [video: original talk](https://www.youtube.com/watch?v=gSCa78TIldg) <br> [video: retrospective, 5 years later](https://www.youtube.com/watch?v=NxAn0oglMVw) |
+| 9/16 | Discovering governing equations from data by sparse identification of nonlinear dynamical systems by Brunton et al. (2016) | Lee Sharma | [paper](https://www.pnas.org/content/pnas/113/15/3932.full.pdf) <br> [video: original talk](https://www.youtube.com/watch?v=gSCa78TIldg) <br> [video: retrospective, 5 years later](https://www.youtube.com/watch?v=NxAn0oglMVw) |
+
