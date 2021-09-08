@@ -10,7 +10,7 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 Our next meeting will be **5-6pm** on **Thursday, September 16, 2021** in **IRB 4145**. ([calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHZycGE4ZDJoNWxhNDZkZGJha3IwZWFzc3YgYWpzaGFybWFAdW1kLmVkdQ&tmsrc=ajsharma%40umd.edu))
 
-Our tentative fall meeting schedule is alternating Thursdays, 5-6pm.
+Our tentative fall meeting schedule is alternating Thursdays, 5-6pm. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
 ## Fall 2021 Schedule
 
