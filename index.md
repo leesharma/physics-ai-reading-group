@@ -8,7 +8,7 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-Our next meeting will be **5-6pm** on **Thursday, September 30, 2021** in **IRB 4137**. ([calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjdkbWlkZGlvZ3RqaWhmMm1pbzhoZjZsZm5fMjAyMTA5MzBUMjEwMDAwWiBjX3NrMmdoNzZrMWJybjRwNjdpOHFwbmZzbzJvQGc&tmsrc=c_sk2gh76k1brn4p67i8qpnfso2o%40group.calendar.google.com&scp=ALL))
+Our next meeting will be **5-6pm** on **Thursday, October 14, 2021** in **IRB 4137**.
 
 Our fall meeting schedule is alternating Thursdays, 5-6pm in IRB 4137. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
@@ -19,7 +19,7 @@ Our fall meeting schedule is alternating Thursdays, 5-6pm in IRB 4137. You can s
 |  9/2  | Physics-informed machine learning by Karniadakis et al. (2021) | Matt Ziemann | [paper](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf) |
 |  9/16 | Discovering governing equations from data by sparse identification of nonlinear dynamical systems by Brunton et al. (2016) | Lee Sharma | [paper](https://www.pnas.org/content/pnas/113/15/3932.full.pdf) <br> [video: original talk](https://www.youtube.com/watch?v=gSCa78TIldg) <br> [video: retrospective, 5 years later](https://www.youtube.com/watch?v=NxAn0oglMVw) |
 |  9/30 | Neural ordinary differential equations by Chen et al. (2016) | Kevin Zhang | [paper](https://arxiv.org/pdf/1806.07366.pdf) |
-| 10/14 | | | |
+| 10/14 | Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations by Raissi et al. (2018) | Lee Sharma | [paper](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Physics-informed%20neural%20networks_A%20deep%20learning%20framwork%20fir%20solving%20forward%20and%20inverse%20probelms%20involving%20nonlinear%20partial%20differential%20equations.pdf) |
 | 10/28 | | | |
 | 11/11 | | | |
 | 12/9  | | | |
