@@ -8,7 +8,7 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-Our last meeting of the semester will be **5-6pm** on **Thursday, December 9, 2021** in **IRB 4137**. Meetings will resume in the spring!
+Our last meeting of the semester will be **5-6pm** on **Thursday, December 9, 2021** at **Board & Brew (near campus)**. Meetings will resume in the spring!
 
 Our fall meeting schedule is alternating Thursdays, 5-6pm in IRB 4137. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
