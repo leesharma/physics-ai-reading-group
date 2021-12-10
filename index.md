@@ -8,9 +8,11 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-Our last meeting of the semester will be **5-6pm** on **Thursday, December 9, 2021** at **Board & Brew (near campus)**. Meetings will resume in the spring!
+We're done for the semester—stay tuned for our Spring 2022 schedule in January!
 
-Our fall meeting schedule is alternating Thursdays, 5-6pm in IRB 4137. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+
+## Spring 2022 Schedule TBD
 
 ## Fall 2021 Schedule
 
