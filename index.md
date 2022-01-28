@@ -8,11 +8,21 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-We're done for the semester—stay tuned for our Spring 2022 schedule in January!
+Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
-You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+## Spring 2022 Schedule
 
-## Spring 2022 Schedule TBD
+| Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
+|------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 2/1  | Incorporating Symmetry into Deep Dynamics Models for Improved Generalization by Yu et al. (2021) <br>A Practical Method for Constructing Equivariant Multilayer Perceptron for Arbitrary Matrix Groups by Wilson et al. (2021) | Ian DesJardin | [paper1](https://arxiv.org/abs/2002.03061)<br>[paper2](https://arxiv.org/abs/2104.09459) |
+| 2/15 |
+| 3/1  |
+| 3/15 |
+| 3/29 |
+| 4/12 |
+| 4/26 |
+| 5/10 |
+
 
 ## Fall 2021 Schedule
 
