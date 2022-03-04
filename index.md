@@ -15,7 +15,7 @@ Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can 
 | Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
 |------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 2/1  | Incorporating Symmetry into Deep Dynamics Models for Improved Generalization by Yu et al. (2021) <br>A Practical Method for Constructing Equivariant Multilayer Perceptron for Arbitrary Matrix Groups by Wilson et al. (2021) | Ian DesJardin | [paper1](https://arxiv.org/abs/2002.03061)<br>[paper2](https://arxiv.org/abs/2104.09459) |
-| 2/15 | MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning by van der Pol et al. (2020) | Josh McLellan | [paper](https://proceedings.neurips.cc/paper/2020/hash/2be5f9c2e3620eb73c2972d7552b6cb5-Abstract.html) |
+| 2/15 | MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning by van der Pol et al. (2020) | Josh McClellan | [paper](https://proceedings.neurips.cc/paper/2020/hash/2be5f9c2e3620eb73c2972d7552b6cb5-Abstract.html) |
 | 3/1  | Chapters 1-3 - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 3/15 |
 | 3/29 |
