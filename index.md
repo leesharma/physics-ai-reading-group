@@ -18,7 +18,7 @@ Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can 
 | 2/15 | MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning by van der Pol et al. (2020) | Josh McClellan | [paper](https://proceedings.neurips.cc/paper/2020/hash/2be5f9c2e3620eb73c2972d7552b6cb5-Abstract.html) |
 | 3/1  | Chapters 1-3 - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 3/15 | Deconstructing the Inductive Biases of Hamiltonian Neural Networks by Gruver et al. (2022) | Josh McClellan | [paper](https://arxiv.org/abs/2202.04836) |
-| 3/29 |
+| 3/29 | Simulation Intelligence: Towards a New Generation of Scientific Methods by Lavin et al. (2021) | Lee Sharma | [paper](https://arxiv.org/abs/2112.03235) |
 | 4/12 |
 | 4/26 |
 | 5/10 |
