@@ -19,8 +19,8 @@ Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can 
 | 3/1  | Chapters 1-3 - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 3/15 | Deconstructing the Inductive Biases of Hamiltonian Neural Networks by Gruver et al. (2022) | Josh McClellan | [paper](https://arxiv.org/abs/2202.04836) |
 | 3/29 | Simulation Intelligence: Towards a New Generation of Scientific Methods by Lavin et al. (2021) | Lee Sharma | [paper](https://arxiv.org/abs/2112.03235) |
-| 4/12 | Chapter 3 (Geometric Priors) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
-| 4/26 |
+| ~4/12~ | ~_Postponed due to schedule conflicts_~ |
+| 4/26 | Chapter 3 (Geometric Priors) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 5/10 |
 
 
