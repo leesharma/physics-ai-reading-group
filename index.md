@@ -8,7 +8,11 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+That's it for this spring! The summer 2022 schedule will be posted in a few weeks. In the mean time, you can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+
+## Summer 2022 Schedule
+
+TBD
 
 ## Spring 2022 Schedule
 
@@ -21,7 +25,7 @@ Our spring meeting schedule is alternating Tuesdays, 5-6pm in IRB 4137. You can 
 | 3/29 | Simulation Intelligence: Towards a New Generation of Scientific Methods by Lavin et al. (2021) | Lee Sharma | [paper](https://arxiv.org/abs/2112.03235) |
 | ~4/12~ | ~_Postponed due to schedule conflicts_~ |
 | 4/26 | Chapter 3 (Geometric Priors) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
-| 5/10 |
+| 5/10 | [Lean Coffee](https://leancoffee.org/)-style informal discussion | n/a | n/a |
 
 
 ## Fall 2021 Schedule
