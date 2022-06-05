@@ -8,11 +8,19 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-That's it for this spring! The summer 2022 schedule will be posted in a few weeks. In the mean time, you can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
+This summer, we're (tentatively) meeting alternating Wednesdays, 3:15-4:15pm in IRB 4237.
+You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
 ## Summer 2022 Schedule
 
-TBD
+| Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
+|------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 6/8  | Feature Learning in Infinite-Width Neural Networks by Yang and Hu (2020) | Dayal Kalra | [paper](https://arxiv.org/abs/2011.14522) |
+| 6/22 |
+| 7/6  |
+| 7/20 |
+| 8/3  |
+| 8/17 |
 
 ## Spring 2022 Schedule
 
