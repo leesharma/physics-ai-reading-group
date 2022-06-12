@@ -8,7 +8,7 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-This summer, we're (tentatively) meeting alternating Wednesdays, 3:15-4:15pm in IRB 4237.
+This summer, we're meeting alternating Wednesdays, 3:15-4:15pm in IRB 4237.
 You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
 ## Summer 2022 Schedule
@@ -16,7 +16,7 @@ You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu
 | Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
 |------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 6/8  | Feature Learning in Infinite-Width Neural Networks by Yang and Hu (2020) | Dayal Kalra | [paper](https://arxiv.org/abs/2011.14522) |
-| 6/22 |
+| 6/22 | Chapter 4.1 (Graphs & Sets) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Josh McClellan | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 7/6  |
 | 7/20 |
 | 8/3  |
