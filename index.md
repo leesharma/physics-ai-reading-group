@@ -1,3 +1,7 @@
+---
+title: UMD Physics & AI Reading Group
+---
+
 ## About
 
 We are a reading group focusing on the intersection of machine learning and computational science and engineering. Topics include, but are not limited to, machine learning methods that embed physical priors, applications of machine learning algorithms to computational science and engineering, uncertainty quantification and trust, integration of numerical and data-driven techniques, and high-performance scientific computing with machine learning.
