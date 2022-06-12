@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
 title: "UMD Physics & AI Reading Group"
 description: "A reading group focusing on the intersection of machine learning and computational science and engineering."
+logo: assets/img/feM.png
+organizers:
+  - Lee Sharma
+  - Matt Ziemann
+  - Ryan Synk
 github: false
