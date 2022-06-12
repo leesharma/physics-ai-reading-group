@@ -25,11 +25,23 @@ h1,h2,h3,h4,h5,h6 {
 .logo {
   display: block;
   margin: 0 auto 1em auto;
-  width: 60%;
+  max-width: 180px;   /* 2/3 of header */
 }
 @media print, screen and (max-width: 960px) {
+  header {
+    padding: 0;
+  }
+  .logo {
+    float: left;
+    max-height: 5.5em;
+    margin: 0 2em 0 0;
+  }
+  .tagline {
+    display: none;
+  }
+}
+@media print, screen and (max-width: 720px) {
   .logo {
     display: none;
-    margin: 0;
   }
 }
