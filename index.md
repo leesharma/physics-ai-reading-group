@@ -22,7 +22,7 @@ You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu
 | 6/8  | Feature Learning in Infinite-Width Neural Networks by Yang and Hu (2020) | Dayal Kalra | [paper](https://arxiv.org/abs/2011.14522) |
 | 6/22 | Chapter 4.1 (Graphs & Sets) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Josh McClellan | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
 | 7/6  | Chapter 4.2 (Grids & Euclidean Spaces) - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al. (2021) | Lee Sharma | [paper](https://arxiv.org/pdf/2104.13478.pdf) |
-| 7/20 |
+| 7/20 | Deep Unsupervised Learning using Nonequilibrium Thermodynamics (2015)<br>Denoising Diffusion Probabilistic Models (2020) | Lee Sharma | [paper1](https://arxiv.org/abs/1503.03585)<br>[paper2](https://arxiv.org/abs/2006.11239) |
 | 8/3  |
 | 8/17 |
 
