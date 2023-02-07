@@ -15,12 +15,20 @@ To ensure high-quality discussion, please try to read the paper before attending
 This summer, we're meeting alternating Wednesdays, 3:15-4:15pm in IRB 4237.
 You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
+## Spring 2023 Schedule
+
+| Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
+|------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 2/14 | Phase diagram of training dynamics in deep neural networks: effect of the learning rate, depth, and width (2023) | Dayal Kalra | n/a |
+
 ## Fall 2022 Schedule
 
 | Date | Paper                                                          | Discussion Lead | Links                                                                                                                                |
 |------|----------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 10/11  | Clifford Neural Layers for PDE Modeling by Brandstetter et al (2022) | Ian DesJardin | [paper](https://arxiv.org/abs/2011.14522) |
-| | | |
+| 11/8   | SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks by Fuchs et al. (2020) | Josh McClellan | [paper](https://proceedings.neurips.cc//paper/2020/hash/15231a7ce4ba789d13b722cc5c955834-Abstract.html) |
+| 11/29 | Chapter 2 (Differentiable Physics) - Physics-Based Deep Learning (2020) | Lee Sharma | [chapter](https://physicsbaseddeeplearning.org/diffphys.html) |
+| 12/6 | Diffusion Models (multiple papers) | n/a | n/a |
 
 ## Summer 2022 Schedule
 
