@@ -12,7 +12,7 @@ To ensure high-quality discussion, please try to read the paper before attending
 
 ## Meeting Details
 
-This summer, we're meeting alternating Wednesdays, 3:15-4:15pm in IRB 4237.
+This spring, we're meeting alternating Tuesdays, 5-6pm in IRB 4137.
 You can subscribe to our schedule at [talks.cs.umd.edu](https://talks.cs.umd.edu/lists/33).
 
 ## Spring 2023 Schedule
